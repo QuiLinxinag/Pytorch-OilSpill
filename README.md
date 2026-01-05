@@ -19,7 +19,7 @@ The project focuses on **multi-class segmentation** of SAR images into:
 
 ## 📌 Project Overview
 
-![Project Overview](assets/overview.png)
+<img width="5235" height="461" alt="img_0016_comparison" src="https://github.com/user-attachments/assets/35a4bb6b-c123-41e6-af1b-85d18b0f510f" />
 
 > *Example SAR image segmentation results for oil spill detection.*
 
@@ -27,7 +27,7 @@ The project focuses on **multi-class segmentation** of SAR images into:
 
 ## 🧠 Model Architecture
 
-![Model Architecture](assets/architecture.png)
+<img width="3840" height="2160" alt="ResUnetShuffle3" src="https://github.com/user-attachments/assets/8a7dfacf-e55c-439c-96a8-6c3322b5be2f" />
 
 The framework supports multiple encoder–decoder architectures:
 - **U-Net**
